@@ -13,6 +13,8 @@
 		542F02372100843E00A7A28B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 542F02362100843E00A7A28B /* Assets.xcassets */; };
 		542F023A2100843E00A7A28B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 542F02382100843E00A7A28B /* LaunchScreen.storyboard */; };
 		542F02452100876300A7A28B /* SCNAxis.swift in Sources */ = {isa = PBXBuildFile; fileRef = 542F02442100876300A7A28B /* SCNAxis.swift */; };
+		543C2B1A21009A1600258EBD /* SCNXYZAxis.swift in Sources */ = {isa = PBXBuildFile; fileRef = 543C2B1921009A1600258EBD /* SCNXYZAxis.swift */; };
+		543C2B1C21009A5000258EBD /* SCNNodeEx.swift in Sources */ = {isa = PBXBuildFile; fileRef = 543C2B1B21009A5000258EBD /* SCNNodeEx.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		542F02392100843E00A7A28B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		542F023B2100843E00A7A28B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		542F02442100876300A7A28B /* SCNAxis.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SCNAxis.swift; sourceTree = "<group>"; };
+		543C2B1921009A1600258EBD /* SCNXYZAxis.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SCNXYZAxis.swift; sourceTree = "<group>"; };
+		543C2B1B21009A5000258EBD /* SCNNodeEx.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SCNNodeEx.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +75,8 @@
 			isa = PBXGroup;
 			children = (
 				542F02442100876300A7A28B /* SCNAxis.swift */,
+				543C2B1B21009A5000258EBD /* SCNNodeEx.swift */,
+				543C2B1921009A1600258EBD /* SCNXYZAxis.swift */,
 			);
 			name = CoordinateAxisLib;
 			path = ../../CoordinateAxisLib;
@@ -150,6 +156,8 @@
 				542F02452100876300A7A28B /* SCNAxis.swift in Sources */,
 				542F02322100843D00A7A28B /* ViewController.swift in Sources */,
 				542F02302100843D00A7A28B /* AppDelegate.swift in Sources */,
+				543C2B1A21009A1600258EBD /* SCNXYZAxis.swift in Sources */,
+				543C2B1C21009A5000258EBD /* SCNNodeEx.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
