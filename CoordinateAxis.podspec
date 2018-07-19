@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                    DESC
 
-  s.homepage     = "http://EXAMPLE/CoordinateAxis"
+  # s.homepage     = "http://EXAMPLE/CoordinateAxis"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -38,7 +38,7 @@ Pod::Spec.new do |s|
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  s.license      = "MIT (example)"
+  # s.license      = "MIT (example)"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
 
@@ -52,9 +52,9 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.author             = { "Shou Wei" => "ws@tectusdreamlab.com" }
+  s.author             = { "Shou Wei" => "sw0906@gmail.com" }
   # Or just: s.author    = "Shou Wei"
-  # s.authors            = { "Shou Wei" => "ws@tectusdreamlab.com" }
+  # s.authors            = { "Shou Wei" => "sw0906@gmail.com" }
   # s.social_media_url   = "http://twitter.com/Shou Wei"
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
