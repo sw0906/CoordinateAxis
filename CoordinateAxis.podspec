@@ -27,7 +27,7 @@ Pod::Spec.new do |s|
   s.description  = "3D XYZ Coordinate Axises. Can easily change size, color and name"
 
   # s.homepage     = "http://EXAMPLE/CoordinateAxis"
-  # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
+  s.screenshots  = "https://github.com/sw0906/CoordinateAxis/blob/master/axis.jpeg"
 
 
   # ―――  Spec License  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
