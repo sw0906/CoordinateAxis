@@ -11,7 +11,7 @@ public typealias StringXYZ = (x: String, y: String, z:String)
 public struct SCNXYZAxisDefaultValue {
     
     public var axisRadius: CGFloat = 0.005
-
+    
     public var color: ColorXYZ = (.red, .yellow, .green)
     public var axisName: StringXYZ = ("x", "y", "z")
     public var axisNameScale: Float = 0.005
