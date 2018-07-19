@@ -74,9 +74,9 @@
 		542F02432100876300A7A28B /* CoordinateAxisLib */ = {
 			isa = PBXGroup;
 			children = (
+				543C2B1921009A1600258EBD /* SCNXYZAxis.swift */,
 				542F02442100876300A7A28B /* SCNAxis.swift */,
 				543C2B1B21009A5000258EBD /* SCNNodeEx.swift */,
-				543C2B1921009A1600258EBD /* SCNXYZAxis.swift */,
 			);
 			name = CoordinateAxisLib;
 			path = ../../CoordinateAxisLib;

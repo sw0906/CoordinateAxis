@@ -17,9 +17,6 @@ open class SCNXYZAxis: SCNNode {
     
     public var defaultValue = SCNXYZAxisDefaultValue()
     
-    public var hiddeTestBox = false
-    public var hiddeName = false
-    
     required public init?(coder aDecoder: NSCoder) {
         fatalError("init(coder:) has not been implemented")
     }
