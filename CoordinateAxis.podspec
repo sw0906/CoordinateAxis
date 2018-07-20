@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "CoordinateAxis"
-  s.version      = "1.1"
+  s.version      = "1.2"
   s.summary      = "3D XYZ Coordinate Axises."
   s.description  = "3D XYZ Coordinate Axises. Can easily change size, color and name"
   s.homepage     = "https://github.com/sw0906/CoordinateAxis.git"
