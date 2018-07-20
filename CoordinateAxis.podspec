@@ -19,5 +19,4 @@ Pod::Spec.new do |s|
   s.author             = { "Shou Wei" => "sw0906@gmail.com" }
   s.source       = { :git => "https://github.com/sw0906/CoordinateAxis.git", :tag => s.version }
   s.source_files  = "CoordinateAxisLib/*"
-  s.requires_arc  = true
 end
