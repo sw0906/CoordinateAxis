@@ -6,7 +6,7 @@
 //  Copyright © 2018 Shou Wei. All rights reserved.
 //
 
-import Foundation
+import UIKit
 import SceneKit
 
 public typealias ColorXYZ = (x: UIColor, y: UIColor, z: UIColor)
