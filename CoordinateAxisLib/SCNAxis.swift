@@ -78,7 +78,7 @@ open class SCNAxis: SCNNode {
             case .Y:
                 axisNameNode.transform = SCNMatrix4Translate(axisNameNode.transform, 0, translateSetup.y * offsetRatio, 0)
             case .Z:
-                axisNameNode.transform = SCNMatrix4Translate(axisNameNode.transform, 0, translateSetup.y * offsetRatio, translateSetup.z * offsetRatio)
+                axisNameNode.transform = SCNMatrix4Translate(axisNameNode.transform, 0, 0, translateSetup.z * offsetRatio)
             }
         }
     }
