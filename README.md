@@ -6,6 +6,8 @@ pod 'CoordinateAxis'
 
 
 ## Sample Code
+
+```swift
         //create an 3D Coordinate system
         let xyz = SCNXYZAxis(axisName: ("X", "Y", "Z"),
                              radius: 0.01,                                             //axis radius
@@ -19,6 +21,7 @@ pod 'CoordinateAxis'
         
         // translate to scene
         xyz.moveAxis(transform: SCNVector3(0,-1,0))
+```
         
 
 ## 3D XYZ
