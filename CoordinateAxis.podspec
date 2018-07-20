@@ -14,6 +14,8 @@ Pod::Spec.new do |s|
   s.description  = "3D XYZ Coordinate Axises. Can easily change size, color and name"
   s.homepage     = "https://github.com/sw0906/CoordinateAxis.git"
   s.screenshots  = "https://github.com/sw0906/CoordinateAxis/blob/master/threed1.png"
+  
+  s.ios.deployment_target = "9.0"
 
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author             = { "Shou Wei" => "sw0906@gmail.com" }
