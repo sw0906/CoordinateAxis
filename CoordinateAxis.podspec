@@ -15,6 +15,7 @@ Pod::Spec.new do |s|
   s.homepage     = "https://github.com/sw0906/CoordinateAxis.git"
   s.screenshots  = "https://github.com/sw0906/CoordinateAxis/blob/master/threed1.png"
   
+  s.platform     = :ios, "9.0"
   s.ios.deployment_target = "9.0"
 
   s.license      = { :type => "MIT", :file => "LICENSE" }
