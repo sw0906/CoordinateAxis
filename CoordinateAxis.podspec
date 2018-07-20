@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.author             = { "Shou Wei" => "sw0906@gmail.com" }
-  s.source       = { :git => "https://github.com/sw0906/CoordinateAxis.git", :tag => "1.0" }
+  s.source       = { :git => "https://github.com/sw0906/CoordinateAxis.git", :tag => s.version }
   s.source_files  = "CoordinateAxisLib/*"
 
 end
